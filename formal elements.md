@@ -79,14 +79,15 @@
 ## סקירת משחקים קיימים
 
 משחק 1: (https://store.steampowered.com/app/808080/Ultimate_Racing_2D/)Steam – Ultimate Racing 2D
+<img width="450" height="250" alt="image" src="https://github.com/user-attachments/assets/fd892f3e-fcb4-4587-afeb-c717c4cc23b7" />
 
 משחק 2: Official site – Rush Rush Rally Racing (https://www.rushrushrallyracing.com/)
+<img width="481" height="364" alt="image" src="https://github.com/user-attachments/assets/0466263a-0217-427b-a663-0521be1c2a3f" />
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
+משחק 3: Pixo Racing 2D(https://dreamfractgames.itch.io/pixo-racing-2d)
 
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/12ce2e72-74a4-415b-b39e-da79cf5324b4" />
 
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
 
 * שימו קישור וצילום-מסך להמחשה.
 * הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
