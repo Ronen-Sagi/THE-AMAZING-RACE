@@ -80,7 +80,7 @@
 
 משחק 1: (https://store.steampowered.com/app/808080/Ultimate_Racing_2D/)Steam – Ultimate Racing 2D
 
-משחק 2:
+משחק 2: Official site – Rush Rush Rally Racing (https://www.rushrushrallyracing.com/)
 
 לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
 
