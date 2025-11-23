@@ -3,7 +3,8 @@ using UnityEngine.SceneManagement;
 
 public class finishLine : MonoBehaviour
 {
-    private string nextSceneName = "WinScene";
+    [SerializeField] string winSceneName = "WinScene";
+    [SerializeField] string loseSceneName = "LoseScene";
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -11,8 +12,13 @@ public class finishLine : MonoBehaviour
 
         if (other.CompareTag("Player"))
         {
-            Debug.Log("Player reached the finish line!");
-            SceneManager.LoadScene(nextSceneName);
+            Debug.Log("Player won");
+            SceneManager.LoadScene(winSceneName);
+        }
+        else if (other.CompareTag("Enemy"))
+        {
+            Debug.Log("Enemy won");
+            SceneManager.LoadScene(loseSceneName);
         }
     }
 }
