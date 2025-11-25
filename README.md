@@ -12,3 +12,46 @@
 יוצרים: שגיא חסיד ורונן צ'רשניה
 
 [formal elements](https://github.com/Ronen-Sagi/THE-AMAZING-RACE/blob/main/formal%20elements.md)
+
+---
+
+## UML TABLE
+
+    +---------------------------------------+
+    |            playerController           |
+    +---------------------------------------+
+    | - speed : float                       |
+    | - up : InputAction                    |
+    | - down : InputAction                  |
+    | - left : InputAction                  |
+    | - right : InputAction                 |
+    | - rb : Rigidbody2D                    |
+    +---------------------------------------+
+    | + Start()                             |
+    | + OnEnable()                          |
+    | + OnDisable()                         |
+    | + Update()                            |
+    +---------------------------------------+
+                 ▲
+                 |
+    +---------------------------------------+
+    |            enemyController            |
+    +---------------------------------------+
+    | - moveSpeed : float                   |
+    | - movePoints : Transform[]            |
+    | - currIdx : int                       |
+    | - rb : Rigidbody2D                    |
+    +---------------------------------------+
+    | + Start()                             |
+    | + Update()                            |
+    +---------------------------------------+
+                     ▲
+                     |
+    +---------------------------------------+
+    |              finishLine               |
+    +---------------------------------------+
+    | - winSceneName : string               |
+    | - loseSceneName : string              |
+    +---------------------------------------+
+    | + OnTriggerEnter2D(Collider2D)        |
+    +---------------------------------------+
